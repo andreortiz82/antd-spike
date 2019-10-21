@@ -10,8 +10,9 @@
                  [org.clojure/clojurescript "1.10.520"]
                  [org.clojure/core.async  "0.4.500"]
                  [rum "0.11.3"]
-                 [re-frame "0.10.8"]
-                 [cljsjs/antd "3.19.8-0"]
+                 [cljsjs/antd "3.23.4-0"]
+                 [net.ofnir/antizer "3.22.0-0"]
+                 [cljsjs/moment "2.24.0-0"]
                  [talltale "0.2.11"]
                  [cljs-ajax "0.7.5"]]
 

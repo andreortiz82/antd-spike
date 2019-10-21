@@ -1,2 +1,5 @@
 /* some style */
-
+.ant-layout-header {
+  display: flex;
+  align-items: center;
+}
